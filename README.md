@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋, soy Isaac<img height="40" src="https://cdn.7tv.app/emote/6196ac9070bd9959879513c7/3x.gif"></h1>
+<h1 align="center">¡Hola! Soy Isaac<img height="40" src="https://cdn.7tv.app/emote/6196ac9070bd9959879513c7/3x.gif"></h1>
 <h3 align="center">Soy un estudiante de Diseño de Aplicaciones Multiplataforma interesado en aprender y seguir creciendo como desarrollador</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Python, HTML5 y CSS3**
